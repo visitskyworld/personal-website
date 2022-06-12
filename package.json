@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "personalPortfolio",
-  "homepage": "http://visitskyworld.github.io/PortfolioV2",
+  "name": "personal-website",
+  "homepage": "http://visitskyworld.github.io",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
